@@ -9,5 +9,5 @@ st.write(
 name = st.text_input("Enter your name")
 
 # Response
-if name:
-    st.write(f"Welcome, {name}!")
+# if name:
+#     st.write(f"Welcome, {name}!")
